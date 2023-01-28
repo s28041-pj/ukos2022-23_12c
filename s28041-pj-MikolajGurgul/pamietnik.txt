@@ -38,3 +38,19 @@ abysmy nie byli stratni i nie otrzymali niepozadanych dzialan
 - utrwalanie zdobytej wiedzy oraz poszerzanie jej
 - wyszukiwanie plikow w obecnym folderze np. zaczynajacych sie od jakiejs litery
 - nadawanie plikom uprawnien w roznych wersjach
+
+4.12.2022
+
+- powtorka przed kolokwium, utrwalenie wiedzy
+- napisanie kolokwium
+
+18.12.2022
+
+- wstep do powershella, poznanie podstawowych komend
+- praca ze skryptem i sprawdzanie komend z niego
+
+15.01.2023
+
+- kontynuacja z powershellem
+- zobaczenie skryptu, ktory pozwala bez dotykania myszki zmieniac polozenie kursoru
+
